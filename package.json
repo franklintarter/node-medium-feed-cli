@@ -1,0 +1,22 @@
+{
+  "name": "medium-feed-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "inquirer": "^6.2.1",
+    "node-medium-feed": "^0.0.5",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.1"
+  }
+}
